@@ -1,0 +1,27 @@
+.boton {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: aquamarine;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-style: hidden;
+  border-radius: 1em;
+}
+
+.title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.contenedor {
+  align-items: center;
+}
+
+a:link {
+  text-decoration: none;
+  color: rgb(168, 153, 255);
+}
+
+.parrafo {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
